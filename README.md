@@ -19,7 +19,3 @@ MAMP環境で作成しました。
 ・月別の収入、支出を算出する画面表示
 ・ログイン機能
 # DB設計
-## recordsテープル (DB名: simple-kakeibo)
-| id | title(項目) | type(支出or収入) | amount(金額) | date | created_at(作成日) | updated_at(更新日) |
-| ------------- | ------------- |
-| int  | varchar  |
